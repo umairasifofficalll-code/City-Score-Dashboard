@@ -1,0 +1,54 @@
+{
+  "name": "City Scores",
+  "dataColors": ["#2563EB", "#14B8A6", "#F59E0B", "#EF4444", "#8B5CF6", "#10B981", "#64748B", "#EC4899"],
+  "background": "#FFFFFF",
+  "foreground": "#1E293B",
+  "tableAccent": "#2563EB",
+  "good": "#10B981",
+  "neutral": "#F59E0B",
+  "bad": "#EF4444",
+  "maximum": "#1D4ED8",
+  "center": "#60A5FA",
+  "minimum": "#DBEAFE",
+  "textClasses": {
+    "title": {"fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#1E293B"},
+    "label": {"fontFace": "Segoe UI", "fontSize": 10, "color": "#475569"},
+    "header": {"fontFace": "Segoe UI Semibold", "fontSize": 12, "color": "#1E293B"},
+    "callout": {"fontFace": "Segoe UI Semibold", "fontSize": 24, "color": "#1E293B"}
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{"show": true, "color": {"solid": {"color": "#FFFFFF"}}, "transparency": 0}],
+        "border": [{"show": true, "color": {"solid": {"color": "#E2E8F0"}}, "radius": 12}],
+        "dropShadow": [{"show": true, "color": {"solid": {"color": "#94A3B8"}}, "position": "Outer", "preset": "BottomRight", "transparency": 80}],
+        "title": [{"show": true, "fontColor": {"solid": {"color": "#1E293B"}}, "fontSize": 12, "fontFamily": "Segoe UI Semibold"}],
+        "padding": [{"top": 10, "bottom": 10, "left": 12, "right": 12}],
+        "categoryAxis": [{"labelColor": {"solid": {"color": "#64748B"}}, "titleColor": {"solid": {"color": "#64748B"}}, "gridlineShow": false}],
+        "valueAxis": [{"labelColor": {"solid": {"color": "#64748B"}}, "titleColor": {"solid": {"color": "#64748B"}}, "gridlineColor": {"solid": {"color": "#EEF2F7"}}}],
+        "legend": [{"labelColor": {"solid": {"color": "#475569"}}}]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#EEF2F8"}}, "transparency": 0}],
+        "outspace": [{"color": {"solid": {"color": "#EEF2F8"}}, "transparency": 0}]
+      }
+    },
+    "slicer": {
+      "*": {
+        "header": [{"show": true, "fontColor": {"solid": {"color": "#1E3A8A"}}, "fontFamily": "Segoe UI Semibold", "textSize": 11}],
+        "items": [{"fontColor": {"solid": {"color": "#334155"}}, "textSize": 10}],
+        "numericInputStyle": [{"fontColor": {"solid": {"color": "#1E293B"}}}],
+        "slider": [{"color": {"solid": {"color": "#2563EB"}}}]
+      }
+    },
+    "textbox": {
+      "*": {
+        "background": [{"show": true, "color": {"solid": {"color": "#1E3A8A"}}, "transparency": 0}],
+        "border": [{"show": false}],
+        "dropShadow": [{"show": false}]
+      }
+    }
+  }
+}

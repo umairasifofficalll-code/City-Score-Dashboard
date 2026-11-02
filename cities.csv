@@ -1,0 +1,64 @@
+city_id,city,country,region
+1,Lisbon,Portugal,Europe
+2, barcelona ,Spain,Europe
+3,Madrid,Spain,Europe
+4,Berlin,Germany,Europe
+5,Prague,Czech Republic,Europe
+6,Budapest,Hungary,Europe
+7,Warsaw,Poland,Europe
+8,Athens,Greece,Europe
+9,Belgrade,Serbia,Europe
+10, sofia ,Bulgaria,Europe
+11,Tallinn,Estonia,Europe
+12,Amsterdam,Netherlands,Europe
+13,London,UK,Europe
+14,Paris,France,Europe
+15,Vienna,Austria,Europe
+16,Zurich,Switzerland,Europe
+17,Istanbul,Turkey,Europe
+18,Tbilisi,Georgia,Europe
+19,Dubai,United Arab Emirates,Middle East
+20,Doha,Qatar,Middle East
+21,Bangkok,Thailand,Southeast Asia
+22,Chiang Mai,Thailand,Southeast Asia
+23,Denpasar (Bali),Indonesia,Southeast Asia
+24,Kuala Lumpur,Malaysia,Southeast Asia
+25,Ho Chi Minh City,Vietnam,Southeast Asia
+26,Hanoi,Vietnam,Southeast Asia
+27,Manila,Philippines,Southeast Asia
+28,Singapore,Singapore,Southeast Asia
+29,Hong Kong,Hong Kong,East Asia
+30,Tokyo,Japan,East Asia
+31, seoul ,South Korea,East Asia
+32,Taipei,Taiwan,East Asia
+33,Mumbai,India,South Asia
+34,Bengaluru,India,South Asia
+35,Delhi,India,South Asia
+36, colombo ,Sri Lanka,South Asia
+37,Karachi,Pakistan,South Asia
+38,Lahore,Pakistan,South Asia
+39,Islamabad,Pakistan,South Asia
+40,Dhaka,Bangladesh,South Asia
+41,Kathmandu,Nepal,South Asia
+42,Nairobi,Kenya,Africa
+43, cape town ,South Africa,Africa
+44,Lagos,Nigeria,Africa
+45,Accra,Ghana,Africa
+46,Kigali,Rwanda,Africa
+47,Cairo,Egypt,Africa
+48,Marrakech,Morocco,Africa
+49,Mexico City,Mexico,Latin America
+50,Medellin,Colombia,Latin America
+51,Bogota,Colombia,Latin America
+52,Buenos Aires,Argentina,Latin America
+53,Sao Paulo,Brazil,Latin America
+54,Santiago,Chile,Latin America
+55,Lima,Peru,Latin America
+56,Panama City,Panama,Latin America
+57,Toronto,Canada,North America
+58,Vancouver,Canada,North America
+59,New York,United States,North America
+60,Austin,United States,North America
+61,Sydney,Australia,Oceania
+62,Melbourne,Australia,Oceania
+63,Auckland,New Zealand,Oceania

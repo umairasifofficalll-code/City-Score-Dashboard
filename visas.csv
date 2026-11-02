@@ -1,0 +1,53 @@
+country,remote_work_visa,min_monthly_income_usd,max_stay_months,allows_renewal
+Argentina,Yes,2000.0,6.0,No
+Australia,No,,,Yes
+Austria,No,,,Yes
+Bangladesh,No,,,Yes
+Brazil,Yes,2000.0,24.0,Yes
+Bulgaria,Yes,3000.0,12.0,Yes
+Canada,No,,,No
+Chile,No,,,No
+Colombia,Yes,2000.0,24.0,No
+Czechia,Yes,4500.0,12.0,Yes
+Egypt,Yes,4500.0,12.0,No
+Estonia,Yes,4500.0,24.0,Yes
+France,No,,,Yes
+Georgia,Yes,3500.0,24.0,No
+Germany,Yes,2500.0,12.0,No
+Ghana,Yes,3500.0,24.0,No
+Greece,Yes,3500.0,6.0,Yes
+Hong Kong,No,,,No
+Hungary,Yes,4500.0,24.0,Yes
+India,No,,,No
+Indonesia,Yes,2000.0,12.0,No
+Japan,Yes,3000.0,12.0,Yes
+Kenya,Yes,1500.0,6.0,Yes
+Malaysia,Yes,4500.0,6.0,Yes
+Mexico,Yes,1500.0,6.0,No
+Morocco,Yes,3000.0,6.0,Yes
+Nepal,No,,,Yes
+Netherlands,No,,,No
+New Zealand,No,,,No
+Nigeria,No,,,Yes
+Pakistan,No,,,No
+Panama,Yes,3500.0,12.0,No
+Peru,Yes,3000.0,12.0,Yes
+Philippines,Yes,2000.0,12.0,No
+Poland,Yes,4500.0,12.0,No
+Portugal,Yes,3000.0,6.0,Yes
+Qatar,No,,,Yes
+Rwanda,Yes,1500.0,6.0,No
+Serbia,Yes,2000.0,24.0,No
+Singapore,Yes,4500.0,12.0,Yes
+South Africa,No,,,Yes
+South Korea,Yes,3000.0,12.0,Yes
+Spain,Yes,2500.0,24.0,Yes
+Sri Lanka,Yes,2500.0,12.0,Yes
+Switzerland,No,,,No
+Taiwan,Yes,1500.0,6.0,Yes
+Thailand,Yes,3000.0,12.0,Yes
+Turkey,No,,,No
+United Arab Emirates,Yes,2000.0,24.0,Yes
+United Kingdom,No,,,No
+United States,No,,,No
+Vietnam,No,,,No
